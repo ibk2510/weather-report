@@ -1,0 +1,29 @@
+-----------Pollachi-----------
+Temperature: 308.15
+Humidity: 28
+Pressure: 1008
+Weather Report: few clouds------------paris-------------
+Temperature: 288.89
+Humidity: 33
+Pressure: 1014
+Weather Report: clear sky----------coimbatore----------
+Temperature: 308.15
+Humidity: 29
+Pressure: 1007
+Weather Report: scattered clouds-----------germany------------
+Temperature: 283.85
+Humidity: 57
+Pressure: 1011
+Weather Report: overcast clouds-----------chennai------------
+Temperature: 303.15
+Humidity: 54
+Pressure: 1007
+Weather Report: few clouds-----------america------------
+Temperature: 295.08
+Humidity: 28
+Pressure: 1008
+Weather Report: clear sky-----------georgia------------
+Temperature: 291.43
+Humidity: 94
+Pressure: 1015
+Weather Report: mist
